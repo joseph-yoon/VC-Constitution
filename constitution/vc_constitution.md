@@ -1,7 +1,7 @@
 
 
 # Von Cramm Constitution
-[Proposed and Passed March 2006] [Amended 01 March 2020]
+[Proposed and Passed March 2006] [Amended 21 February 2021]
 
 # Table of Contents
 
@@ -179,6 +179,8 @@ A visitor planning to sleep in the living room overnight should seek house permi
 
 Meals are provided starting after house cleanup and ending somewhere toward the end of study week, skipping school holidays, as decided by stewards. Dinners are served Sunday at 6:00pm and Monday through Friday at 7:00 pm. People who cannot make it to the meal can request that a "save plate" be labeled and set aside for them.<sup>1</sup> In addition, Crammies can munch on "PC food". Leftovers are PC.   Save plates become PC after 1 pm the next day. It has always been the policy that every meal contains a complete meal for vegetarians, so that if a meat dish is provided, an alternative vegetarian meal should be provided as well. It will be the policy that stewards will make their best attempt to accommodate all dietary restrictions.<sup>2</sup> It is customary to serve meat two days a week.
 
+The meal plan is a significant part of membership at the house, so all house members are required to be on the meal plan, except in the case of extenuating circumstances (e.g. disability, severe illness or allergy).  House members who wish to be taken off the meal plan in that case must contact the stewards and the president, and they will be reimbursed for the cost of the meal plan, and will not be able to access any part of the meal plan.  This includes PC food from cook groups and any staples.<sup>9</sup>
+
 House members (and persons on the meal plan) must cook once a week (starting 2.5 hours before each meal) and clean after the meal. Also, that cooking group is responsible for doing late night.<sup>3</sup> Late night is to be completed before 5am of the next day. At the beginning of each semester, the house may decide by vote between what hours exactly late night should be done.<sup>4</sup> Some house officers are exempt from cooking groups (see house officers’ responsibilities). If all cooking slots are filled, there will be floaters who bake and cook recipes provided by the stewards outside of normal cook groups.
 
 The cost of the meal plan for out-of-house persons is the same if they choose to cook and is additional money if they choose not to cook. Stewards at the beginning of the semester can choose the higher cost, and it should be approximately equal to minimum wage* 3.5 hours/week * the number of weeks of the semester’s meal plan + the normal cost of the meal plan. This additional cost is to ensure that the labor of house members is valued.<sup>5</sup> It has been suggested that the meal plan be limited to a maximum of 50 people.
@@ -202,6 +204,7 @@ The treasurer should keep track of meat purchases and compare prices to those of
 * [6] Passed 3/12/2017
 * [7] Passed 12/2013 (revised 05/2015)
 * [8] Passed 04/28/2019
+* [9] Passed 02/21/2021
 
 # Responsibilities of Members
 

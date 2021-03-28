@@ -1,7 +1,7 @@
 
 
 # Von Cramm Constitution
-[Proposed and Passed March 2006] [Amended 21 February 2021]
+[Proposed and Passed March 2006] [Amended 22 March 2021]
 
 # Table of Contents
 
@@ -107,7 +107,7 @@ Any potential Crammie may be taken out of the selection pool if a current house 
 * Priority is given to those willing to live in a double with a roommate over requests for a single room.<sup>6</sup>
 * In the case that we cannot fill the house with residents that fulfill all four of our gender, racial identity, domestic, and undergraduate student ratios, priority will be given to maintaining the gender ratio, followed by maintaining the domestic resident ratio, followed by the undergraduate ratio, followed by the racial identity ratio.<sup>11</sup><sup>12</sup>
 
-The selection process should generate a selection list. After the selection, which current Crammies are invited to participate in, people are contacted and given two days to confirm they will move in. If they don't, the spot will be offered to others, based on the selection list. In the spirit of fairness, no current house member may try to push up a waitlisted member- the waitlist operates strictly on the ordered list.<sup>7</sup> If the list is exhausted, admission becomes first-come first-served, and the Mosey requirements may be dropped.<sup>8</sup>
+The selection process should generate a selection list. It is recommended that the mosey selection take place in a public location, so that the lottery can be monitored by other house members.<sup>13</sup> After the selection, which current Crammies are invited to participate in, people are contacted and given two days to confirm they will move in. If they don't, the spot will be offered to others, based on the selection list. In the spirit of fairness, no current house member may try to push up a waitlisted member- the waitlist operates strictly on the ordered list.<sup>7</sup> If the list is exhausted, admission becomes first-come first-served, and the Mosey requirements may be dropped.<sup>8</sup>
 
 For the spring semester, the president fills any potential vacancies using the above guidelines, but generally a full mosey process is not conducted. It is suggested that in the fall, when filling spots for the spring, the President remembers to reserve spots for various student populations (international, graduate, and transfer students) in the tradition of keeping Von Cramm a diverse and international community and that the President keep members informed of the mosey process.<sup>9</sup>
 
@@ -129,6 +129,7 @@ This rule was established because of people with no true connection to the house
 * [10] Passed 05/02/2010
 * [11] Passed 04/28/2019
 * [12] Passed 11/03/2019
+* [13] Passed 03/22/2019
 
 # III. House Provisions
 

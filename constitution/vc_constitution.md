@@ -153,7 +153,7 @@ See Meal Plan section of the house rules.
 The house supplies a desk, a mattress, a bed-frame, a desk lamp, a chair, a trash can, a recycling bin, blinds, a dresser, and a closet. Painting the nice wooden doors is not allowed, and is against fire codes.
 
 ## Parking
-Parking lot spaces in front of the house are owned by Cornell. Von Cramm will pay for up to two parking spaces to Crammies who will lend their car for officer duties. Officers, particularly one steward and one HM, have priority for claiming the parking passes. If officers do not claim the parking passes, another house member may claim the parking pass.<sup>7</sup>
+Parking lot spaces in front of the house are owned by Cornell. Von Cramm will pay for up to two parking spaces to house members<sup>8</sup> who will lend their car for officer duties. Officers, particularly one steward and one HM, have priority for claiming the parking passes. If officers do not claim the parking passes, another house member may claim the parking pass.<sup>7</sup>
 
 ## Laundry
 Use of the washing machine and dryer is included in housing charges and detergent is PC. People not living in the house must pay $15 dollars a semester for use of the laundry facilities.
@@ -649,7 +649,7 @@ These House Rules outline policies and guidelines for behavior for summer house 
 
 ## Occupancy Period
 
-Official opening is two days after senior commencement. Summer housing officially ends the Thursday prior to the weekend before the PREPARE orientation program for international students and is only guaranteed until this date. Fall semester Crammies will only be charged until this date.
+Official opening is two days after senior commencement. Summer housing officially ends the Thursday prior to the weekend before the PREPARE orientation program for international students and is only guaranteed until this date. Fall semester house members<sup>4</sup> will only be charged until this date.
 
 Summer residents may stay longer in certain cases depending on when fall residents plan on returning, and with the stipulation that they may have to switch rooms; these cases must be coordinated with a summer house manager. The absolute last day to move out is Thursday prior to the weekend before the start of fall classes.
 
@@ -673,7 +673,7 @@ House Meetings take place every two weeks on Sundays. They last from 6 pm to abo
 House members must attend every house meeting.  If a house member must miss a house meeting, they must inform the Summer HM(s) of this at least 48 hours before the meeting.
 
 ### Check-Out and Keys
-Every house member upon moving out of their room is expected to arrange to return their keys and have a summer HM conduct a brief inspection of the room to ensure that it is left in good order. Failure to fulfill this inspection will result in an automatic $50 fine taken out of the security deposit. Abandoned property may be given away or thrown out. This is not required of Crammies staying in their rooms for the fall. There is a $40 deposit charge for leaving a   room messy. If keys are not returned there will be a $20 per key deposit charge. If the house manager decides that the lock must be changed, that cost will be deducted from the security deposit as well.
+Every house member upon moving out of their room is expected to arrange to return their keys and have a summer HM conduct a brief inspection of the room to ensure that it is left in good order. Failure to fulfill this inspection will result in an automatic $50 fine taken out of the security deposit. Abandoned property may be given away or thrown out. This is not required of house members<sup>4</sup> staying in their rooms for the fall. There is a $40 deposit charge for leaving a   room messy. If keys are not returned there will be a $20 per key deposit charge. If the house manager decides that the lock must be changed, that cost will be deducted from the security deposit as well.
 
 House members should return their keys and complete their check-out inspection with a house officer before they leave if no house officer is available at the time of the member's departure. In that case, the refund of the deposit will be Vemoed or mailed as a check after the departure.<sup>3</sup>
 

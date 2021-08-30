@@ -432,7 +432,7 @@ The fun team is a group of 2 house members, elected by the house at the beginnin
 
 They are expected to organize at least one large social event every two weeks and/ or two small events each week depending on the time committed to each event; refer to the Fun Team Manual for information previous events.<sup>3</sup>
 
-In return they are exempt from HIP and chores for the semester.  In the event that Fun Team does not fulfill their responsibilities, they will be expected to complete a HIP, or experience the consequences of a normal house member who does not complete a HIP.  Fun Team is also required to deliver a brief (5-10 minutes including discussion) status report at the weekly officer meeting.<sup>4</sup>
+In return they are exempt from HIP and chores for the semester. In the case of low house occupancy, they may be required to fulfill half or a full chore.<sup>33</sup> In the event that Fun Team does not fulfill their responsibilities, they will be expected to complete a HIP, or experience the consequences of a normal house member who does not complete a HIP. Fun Team is also required to deliver a brief (5-10 minutes including discussion) status report at the weekly officer meeting.<sup>4</sup>
 
 ## President
 The President is the leader of the house, and determines the direction that Von Cramm heads during his/her term. This includes, but is not limited to:
@@ -592,6 +592,7 @@ The Summer House Steward is responsible for overseeing Late Night and buying sta
 * [30] Passed 1/26/2020
 * [31] Passed 4/05/2021
 * [32] Passed 4/18/2021
+* [33] Passed 8/29/2021
 
 # VIII. House Funds
 

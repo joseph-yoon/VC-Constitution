@@ -1,7 +1,7 @@
 
 
 # Von Cramm Constitution
-[Proposed and Passed March 2006] [Amended 18 April 2021]
+[Proposed and Passed March 2006] [Amended 01 November 2021]
 
 # Table of Contents
 

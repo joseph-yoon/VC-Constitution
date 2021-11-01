@@ -396,20 +396,23 @@ Most decisions operate on a majority rule where two options are presented. That 
 
 In the particular case of more than two candidates running for the same office, the process of range voting is used. A description of how range voting is conducted can be found online, in Appendix B, or at http://en.wikipedia.org/wiki/Range_voting <sup>1</sup>
 
-In the event that a decision is an important one, one can propose that the decision be a "special vote". For a proposal to be passed in a "special vote":
-1. Proposal must be cast in the form: "yes" to change to something else, "no" to keep it the same.
-2. The proposal must have at least twice as many yea's as nay's plus one.
-3. The total number of yea's and nay's must be at least the quorum number.
+Typical votes, the required ratios needed to pass, and some rationales are listed below.  Unless stated otherwise, ratios should be assumed to be of the voting population at the house meeting at which the vote was put forth.  Supermajority refers to a ⅔ affirmative vote, and a simple majority refers to a ½ affirmative vote.  A two-option vote is a vote where only “yes” and “no” are the allowed options, and a three-option vote is likewise except “abstain” is also allowed, unless stated otherwise (e.g. constitutional amendments).<sup>2</sup>
 
-In order for a proposal to become a special vote, the house must approve of this stipulation prior to the vote, and by a simple majority (more yeses than no's).
+1. House gift: a two-option simple majority.  Efforts should be made by the secretary or president to make this vote available to the entire house (e.g. a vote via Google Form sent by email to the listserv)
+2. Amendments to the constitution: a three-option supermajority (the options are “yes”, “no”, and “uncertain”) with uncertains counting as nay votes.  This is because constitutional amendments are generally long-term decisions made by the co-op, so all voting members should critically consider the ramifications of such amendments.  Uncertains are equivalent to nays for the purpose of understanding how the house feels about a certain amendment, which can be used for further discussion later on.  Also, because significant discussion should always take place before the vote occurs during the meeting, only people who are present for the discussion should vote.
+3. Events: Events to be hosted at the house by house members require a three-option simple majority vote, or a three-option supermajority if special beverages will be served.  Abstains will subtract from the total.
+4. Officer contract changes: Any changes to co-op officer contracts (such as reimbursements or roles) should be a three-option supermajority.  The rationale is similar to constitutional amendments.
+5. Officer reimbursements: Semesterly officer reimbursement votes should be a two-option supermajority.  Abstains are not allowed since each house member should have an opinion on whether each officer has satisfactorily completed their job.
+6. Changing vote ratio: a three-option supermajority, with abstains subtracting from the total.
+7. Other policy changes, new projects, or votes that do not fit the above descriptions should ideally have a vote ratio and type mentioned beforehand, with rationale if necessary.<sup>2</sup>
 
-Contract changes (including any decision to excuse someone from a contract responsibility) are automatically to be treated as a special vote.
 
 Any questions of procedure that are not addressed here and cannot be solved by discussion should be solved using Roberts’ Rules of Order.
 
 ### Footnotes
-[1] Passed 05/02/2010
-[2] Passed 04/05/2021
+[1] Passed 05/02/2010 
+[2] Passed 11/01/2021
+
 
 # House Officers<sup>1</sup>
 

@@ -559,7 +559,7 @@ The compensation for the SHOC includes no HIP, no cook group, and 1/5 off rent f
 The Summer House Manager performs at least some functions of all officers present during the regular academic semester. These may include collecting summer rent and the activity fee, overseeing chores, and signing in new house members<sup>31</sup>. The Summer HM pays no rent for summer. If there are two, each pays half rent.<sup>28</sup>
 
 ## Summer Steward<sup>28</sup>
-The Summer House Steward is responsible for overseeing Late Night and buying staple food items for the house each week. The Summer Steward pays no rent for summer. If there are tywo, each pays half rent<sup>32</sup>.
+The Summer House Steward is responsible for overseeing Late Night and buying staple food items for the house each week. The Summer Steward pays no rent for summer. If there are two, each pays half rent<sup>32</sup>.
 
 ### Footnotes
 

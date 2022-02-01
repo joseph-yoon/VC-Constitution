@@ -509,7 +509,7 @@ Neither Von Cramm Cooperative, Inc. nor Von Cramm Hall can operate without suffi
 11. To purchase house gift (see Section VII. “Gift Account”).<sup>18</sup>
 See the Bylaws of Von Cramm, Inc and the Treasurer's Handbook by Jim Moss and Dave Burchfield for a more complete description of these duties.
 
-The compensation for the office of Treasurer includes no HIP, no cook group, and 1/5 off rent for a single room.<sup>34<sup> The treasurer must do a house chore.<sup>29</sup> The treasurer is elected for a year. If conditions surrounding the meal plan (such as low enrollment of outside meal plan members) makes it necessary, the Treasurer must cook. During semesters in which the treasurer cooks, their compensation should be increased to 1/4 off of rent for a single room.<sup>19</sup><sup>,</sup><sup>20</sup>,<sup>29</sup>
+The compensation for the office of Treasurer includes no HIP, no cook group, and 1/5 off rent for a single room.<sup>34</sup> The treasurer must do a house chore.<sup>29</sup> The treasurer is elected for a year. If conditions surrounding the meal plan (such as low enrollment of outside meal plan members) makes it necessary, the Treasurer must cook. During semesters in which the treasurer cooks, their compensation should be increased to 1/4 off of rent for a single room.<sup>19</sup><sup>,</sup><sup>20</sup>,<sup>29</sup>
 
 ## Secretary
 The role of Secretary includes, but is not limited to, responsibility for:
@@ -525,7 +525,7 @@ See the Bylaws of Von Cramm, Inc for a more complete description of these duties
 
 Note: The Secretary should search out ways to record, consolidate and organize the written works of Von Cramm. This may include working with other officers to consolidate handbook materials, conglomerating stuff in the databases, or presenting information (newsletter or important meeting minutes) on our website. One area of overlap: The Secretary should work with the HM to ensure that a scrapbook is made (perhaps as a HIP) at least once a year.
 
-The compensation for the position of Secretary includes no cook group, no HIP, 1/5 off rent for a single room.<sup>35</sup> The secretary must do a chore.<sup>23</sup><sup>,</sup><sup>24</sup><sup>29</29>. 
+The compensation for the position of Secretary includes no cook group, no HIP, 1/5 off rent for a single room.<sup>35</sup> The secretary must do a chore.<sup>23</sup><sup>,</sup><sup>24</sup><sup>,</sup><sup>29</sup>
 
 The Secretary is elected for a year.<sup>25</sup><sup>,</sup><sup>26</sup>
 

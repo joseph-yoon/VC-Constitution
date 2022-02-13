@@ -556,10 +556,10 @@ Their responsibilities include, but are not limited to:
 The compensation for the SHOC includes no HIP, no cook group, and 1/5 off rent for a single room, but must continue to do chores. If conditions surrounding the meal plan (such as low enrollment of outside meal plan members) makes it necessary, the SHOC is the first to be asked to cook. During semesters in which the SHOC cooks, their compensation should be increased to 1/4 off of rent for a single room.<sup>29</sup>
 
 ## Summer House Manager
-The Summer House Manager performs at least some functions of all officers present during the regular academic semester. These may include collecting summer rent and the activity fee, overseeing chores, and signing in new house members<sup>31</sup>. The Summer HM pays no rent for summer. If there are two, each pays half rent.<sup>28</sup>
+The Summer House Manager performs at least some functions of all officers present during the regular academic semester. These may include collecting summer rent and the activity fee, overseeing chores, and signing in new house members<sup>31</sup>. The Summer HM pays no rent for summer. If there are two, each pays half rent.<sup>28</sup> The Summer HM(s) also do not do a chore.<sup>36</sup>
 
 ## Summer Steward<sup>28</sup>
-The Summer House Steward is responsible for overseeing Late Night and buying staple food items for the house each week. The Summer Steward pays no rent for summer. If there are two, each pays half rent<sup>32</sup>.
+The Summer House Steward is responsible for overseeing Late Night and buying staple food items for the house each week. The Summer Steward pays no rent for summer. If there are two, each pays half rent, and splits a chore<sup>32</sup><sup>,</sup><sup>37</sup>.
 
 ### Footnotes
 
@@ -598,6 +598,8 @@ The Summer House Steward is responsible for overseeing Late Night and buying sta
 * [33] Passed 8/29/2021
 * [34] Passed 1/31/2022
 * [35] Passed 1/31/2022
+* [36] Passed 12/06/2021
+* [37] Passed 12/06/2021
 
 # VIII. House Funds
 

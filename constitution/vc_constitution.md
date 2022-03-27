@@ -324,7 +324,7 @@ The conditions for committing a house meeting infraction are as follows:
 2. Informing the secretary ahead of time warrants an Excused Absence (if conflict is deemed reasonable at the discretion of the secretary).
 3. Being more than 30 minutes late and/or leaving the meeting early, without appropriate notice, counts as an Unexcused Absence.
 4. Acquiring two unexcused absences from house meetings is grounds for an infraction.
-5. Additionally, three consecutive absences (excused or otherwise) is also grounds for an infraction. Every additional consecutive absence is grounds for another infraction.<sup>25</sup>
+5. Additionally, three consecutive absences (excused or otherwise) is also grounds for an infraction. Infractions from excused house meeting absences will be discussed by the officers and extenuating circumstances will be considered with empathy.<sup>29</sup> Every additional consecutive absence is grounds for another infraction.<sup>25</sup>
 
 Those who do not plan on living in Von Cramm the following semester but for whom the infraction system applies (including but not restricted to graduating house members, external meal plan members) will be responsible for a fee for each infraction, in addition to making up the cleaning/cooking, etc.  for which the infraction was given. House members agree in signing this constitution, and external meal plan members agree in their meal plan contract. The charges are as follows: {1st infraction $25, 2nd infraction $50, 3rd infraction $100}. Those who prefer may pay the charge through service hours at the rate of the current NYS working wage ($15.11 per hour 2018). The fee is due within four weeks of the date of the infraction for deposit into the checking account. The status of current house members is established by the occupancy sheet for the following semester, which is typically circulated at the first or second house meeting of the semester.<sup>23</sup>
 
@@ -369,6 +369,7 @@ Any exception to the above duties on the part of a member must be approved by 2/
 * [26] Passed 11/17/2019
 * [27] Passed 03/01/2020
 * [28] Passed 04/05/2021
+* [29] Passed 03/27/2022
 
 # VI. House Meetings
 

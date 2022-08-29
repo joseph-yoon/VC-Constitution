@@ -153,7 +153,7 @@ See Meal Plan section of the house rules.
 The house supplies a desk, a mattress, a bed-frame, a desk lamp, a chair, a trash can, a recycling bin, blinds, a dresser, and a closet. Painting the nice wooden doors is not allowed, and is against fire codes.
 
 ## Parking
-Parking lot spaces in front of the house are owned by Cornell. Von Cramm will pay for up to two parking spaces to house members<sup>8</sup> who will lend their car for officer duties. Officers, particularly one steward and one HM, have priority for claiming the parking passes. If officers do not claim the parking passes, another house member may claim the parking pass.<sup>7</sup>
+Parking lot spaces in front of the house are owned by Cornell. Redbud<sup>9</sup> will pay for up to two parking spaces to house members<sup>8</sup> who will lend their car for officer duties. Officers, particularly one steward and one HM, have priority for claiming the parking passes. If officers do not claim the parking passes, another house member may claim the parking pass.<sup>7</sup>
 
 ## Laundry
 Use of the washing machine and dryer is included in housing charges and detergent is PC. People not living in the house must pay $15 dollars a semester for use of the laundry facilities.
@@ -179,6 +179,7 @@ A visitor planning to sleep in the living room overnight should seek house permi
 * [6] Passed 12/06/2011
 * [7] Passed 04/28/2019
 * [8] Passed 04/05/2021
+* [9] Passed 08/28/2022
 
 
 # IV. Meal Plan
